@@ -25,6 +25,11 @@ If I want to get really fancy, I can have multiple Todo+ files, each one related
 
 I have used this little utility on a few projects so far and found it very useful. I hope you'll find it useful too.
 
+## Dependencies
+[yargs](https://www.npmjs.com/package/yargs) - for command-line argument processing
+
+[moment](https://www.npmjs.com/package/moment) - for time-based calculations
+
 ## Installation
 `npm i -g todo-time`
 

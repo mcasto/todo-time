@@ -7,7 +7,7 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"bin": {
-		"project-time": "./bin/calculate-time.js"
+		"todo-time": "./bin/calculate-time.js"
 	},
 	"author": "Mike Casto",
 	"license": "ISC",

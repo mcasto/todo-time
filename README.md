@@ -31,8 +31,7 @@ I have used this little utility on a few projects so far and found it very usefu
 [moment](https://www.npmjs.com/package/moment) - for time-based calculations
 
 ## Installation
-Until I get it published to the public NPM registry, which I'm working on now, clone the repo and:
-`npm i -g todo-time`
+`npm i -g mcasto/todo-time`
 
 ## Usage
 From the command line, type `todo-time '/path/to/Todo+ file'` or build it into your project's package.json scripts as I mentioned above.

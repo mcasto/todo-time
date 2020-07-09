@@ -21,7 +21,7 @@ Now, when I'm working on a project, in projects.json, I add:
 
 Then, from the built-in terminal in VS Code, I can type: `npm run time-spent` or `yarn time-spent` and get a summary of the time I've spent on the project.
 
-If I want to get really fancy, I can have multiple Todo+ files, each one related to a different aspect of development, and I can build a "time-spent:aspect" script.
+If I want to get really fancy, I can have multiple Todo+ files, each one related to a different aspect of development, and I can build a "time-spent:aspect" script for each aspect of the project.
 
 I have used this little utility on a few projects so far and found it very useful. I hope you'll find it useful too.
 

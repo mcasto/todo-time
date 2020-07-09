@@ -13,6 +13,7 @@
 	"license": "ISC",
 	"dependencies": {
 		"moment": "^2.27.0",
+		"moment-duration-format": "^2.3.2",
 		"yargs": "^15.4.0"
 	}
 }
